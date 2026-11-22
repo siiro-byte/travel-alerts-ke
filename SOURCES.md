@@ -38,19 +38,19 @@ Regional-body statements must be checked against the national authority responsi
 
 ## Weather and natural-hazard sources (Africa and global)
 
-Use the national meteorological service for the affected place as the primary authority. The sources below are for corroboration and discovery; a warning, forecast or alert level is not proof of travel disruption. Links added 20 November 2026: ACMAD, ICPAC, the SADC Climate Services Centre and GDACS were confirmed through search; the others are standard references to check on first use.
+Use the national meteorological service for the affected place as the primary authority. The sources below are for corroboration and discovery; a warning, forecast or alert level is not proof of travel disruption. Links checked 22 November 2026: all load except JTWC, which blocks automated checks (open it in a browser). ReliefWeb returned a bot-check page to the automated check; open it in a browser too.
 
 | Source | Link | Use |
 |---|---|---|
 | WMO severe-weather warnings | https://severeweather.wmo.int/ | Official national warnings gathered worldwide; confirm with the issuing national service |
-| WMO Regional Climate Centres | https://community.wmo.int/en/activity-areas/climate-services/regional-climate-centres | Directory of regional climate centres, including those serving Africa |
+| WMO Regional Climate Centres | https://wmo.int/activities/csis/rcc | Directory of regional climate centres, including those serving Africa |
 | ACMAD | https://acmad.org/ | Continental Africa weather and climate watch; early warning on drought, tropical cyclones and extreme events |
 | ICPAC (IGAD) | https://www.icpac.net/ | Climate forecasts and early warning for the Greater Horn of Africa |
 | SADC Climate Services Centre | https://www.sadc.int/services-and-centres/climate-services-centre | Southern Africa climate and outlook products |
 | GDACS | https://www.gdacs.org/ | Global Red/Orange/Green alert levels for cyclones, floods, earthquakes, volcanoes, wildfires and drought; discovery and corroboration only |
 | US National Hurricane Center | https://www.nhc.noaa.gov/ | Atlantic and eastern Pacific tropical cyclones |
 | Météo-France La Réunion | https://meteofrance.re/ | South-west Indian Ocean tropical cyclones (Madagascar, Mozambique, Mascarene Islands) |
-| Joint Typhoon Warning Center | https://www.metoc.navy.mil/jtwc/jtwc.html | Tropical-cyclone warnings for the Indian and western Pacific oceans |
+| Joint Typhoon Warning Center | https://www.metoc.navy.mil/jtwc/jtwc.html | Tropical-cyclone warnings for the Indian and western Pacific oceans; the site blocks automated checks, so open it in a browser |
 | USGS Earthquake Hazards | https://earthquake.usgs.gov/ | Global earthquake reports |
 | NASA FIRMS | https://firms.modaps.eosdis.nasa.gov/ | Active-fire detection; supporting evidence only, confirm impact with the responsible authority |
 | ReliefWeb | https://reliefweb.int/ | Disaster and humanitarian reports; trace each item to the originating agency |
